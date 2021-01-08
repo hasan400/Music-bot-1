@@ -36,4 +36,4 @@ for (const file of player) {
     client.player.on(file.split(".")[0], event.bind(null, client));
 };
 
-client.login(client.config.discord.token);
+client.login("Nzk3MTEwMjc4MDY0MDQ2MDkw.X_hsyw.d9R28gGoaU_8MDyLWnYJvYqgT_g");
